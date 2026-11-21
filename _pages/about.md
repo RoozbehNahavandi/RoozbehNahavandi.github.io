@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Computer Science and Engineering at The Ohio State University, advised by [Andrew Perrault](https://cse.engineering.osu.edu/people/perrault.17). I work on AI safety and alignment: how LLMs make decisions under trade-offs, against other agents, and under chance, and what post-training, especially reinforcement learning, changes about that.
+I'm a PhD student in Computer Science and Engineering at The Ohio State University, advised by [Andrew Perrault](https://aperrault.github.io/). I work on AI safety and alignment: how LLMs make decisions under trade-offs, against other agents, and under chance, and what post-training, especially reinforcement learning, changes about that.
 
 Before Ohio State, I earned my B.Sc. in Electrical Engineering at the University of Tehran.
 

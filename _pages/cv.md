@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science and Engineering**, The Ohio State University, Aug. 2023 – present
-  * Advisor: [Andrew Perrault](https://cse.engineering.osu.edu/people/perrault.17)
+  * Advisor: [Andrew Perrault](https://aperrault.github.io/)
   * GPA: 3.85/4.0
 * **B.Sc. in Electrical Engineering**, University of Tehran, Sep. 2018 – June 2023
   * Best Undergraduate Project Award, School of Electrical and Computer Engineering
