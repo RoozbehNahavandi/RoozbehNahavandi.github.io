@@ -23,10 +23,10 @@ Education
 Research Experience
 ======
 * **Graduate Research: LLM Alignment and RL Post-Training**, The Ohio State University, Aug. 2023 – present
-  * Studying how safety training affects the strategic behavior of LLMs in game-theoretic settings (Kuhn Poker, Prisoner's Dilemma, Ultimatum), comparing base and post-trained models across multiple model families.
   * Evaluating the behavioral effects of safety training on LLM agents in autonomous, multi-agent environments.
-  * Developing constrained optimization methods for multi-objective RLHF that enforce per-objective performance thresholds instead of fixed reward weights.
+  * Built and ran LLM fine-tuning and RL post-training pipelines end to end; developing constrained optimization methods for multi-objective RLHF that enforce per-objective performance thresholds instead of fixed reward weights.
   * Training LLMs with self-play RL on stochastic games, studying transfer to general reasoning and credit assignment under chance.
+  * Studying how RL and supervised fine-tuning shift persona and trait representations in LLMs.
 
 Publications
 ======
