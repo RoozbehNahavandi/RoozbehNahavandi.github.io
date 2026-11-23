@@ -20,3 +20,7 @@ Research Interests
 * Multi-objective and constrained RLHF
 * LLMs in strategic, multi-agent, and stochastic settings
 * How post-training affects safety, and the trade-offs between safety and capability
+
+Beyond Research
+======
+Outside research, I’m an FC Barcelona fan and enjoy watching Formula 1 races. I also like staying active, whether that’s playing soccer or volleyball, going to the gym, or getting out for a hike.
